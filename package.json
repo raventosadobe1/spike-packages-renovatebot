@@ -1,0 +1,22 @@
+{
+  "name": "spike-packages-renovatebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raventosadobe1/spike-packages-renovatebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raventosadobe1/spike-packages-renovatebot/issues"
+  },
+  "homepage": "https://github.com/raventosadobe1/spike-packages-renovatebot#readme",
+  "dependencies": {
+    "mocha": "^3.5.3"
+  }
+}
